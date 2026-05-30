@@ -1058,3 +1058,10 @@ Entries:
   id: 2245
   time: '2026-05-30T17:47:23.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/157
+- author: IrkallaEpsilon
+  changes:
+    - type: Remove
+      message: The vent clog event has been disabled.
+  id: 2246
+  time: '2026-05-30T19:00:08.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/146
