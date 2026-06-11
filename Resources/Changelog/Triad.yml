@@ -1471,3 +1471,10 @@ Entries:
   id: 2287
   time: '2026-06-11T22:32:52.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/208
+- author: SquishyEmmaaaa
+  changes:
+    - type: Tweak
+      message: Renames filled chemistry bottle references.
+  id: 2288
+  time: '2026-06-11T22:51:16.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/161
