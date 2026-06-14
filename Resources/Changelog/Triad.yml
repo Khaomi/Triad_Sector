@@ -1521,3 +1521,16 @@ Entries:
   id: 2293
   time: '2026-06-14T01:22:59.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/221
+- author: rebaserHEAD
+  changes:
+    - type: Fix
+      message: The public transit shuttle no longer gets stuck and unable to depart.
+    - type: Fix
+      message: Disposal units once again trigger their linked devices for automation.
+    - type: Fix
+      message: >-
+        Welding-repairing a silicon no longer errors when the target is missing
+        a damage type the welder can heal.
+  id: 2294
+  time: '2026-06-14T02:36:45.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/220
