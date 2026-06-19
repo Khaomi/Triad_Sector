@@ -1701,3 +1701,12 @@ Entries:
   id: 2309
   time: '2026-06-19T13:34:00.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/234
+- author: rebaserHEAD
+  changes:
+    - type: Fix
+      message: >-
+        Returning from a salvage expedition early no longer deletes your ship if
+        you do it right after jumping in.
+  id: 2310
+  time: '2026-06-19T15:11:57.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/236
