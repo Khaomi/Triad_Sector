@@ -1875,3 +1875,10 @@ Entries:
   id: 2322
   time: '2026-06-21T07:54:56.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/245
+- author: SquishyEmmaaaa
+  changes:
+    - type: Tweak
+      message: Updated Dawson's Christian in the Jukebox, enjoy the updated filk!
+  id: 2323
+  time: '2026-06-22T15:53:04.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/246
