@@ -2038,3 +2038,10 @@ Entries:
   id: 2340
   time: '2026-06-30T01:47:19.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/272
+- author: TheRealMasterChief117
+  changes:
+    - type: Tweak
+      message: Fire axe cabinets now persist their contents on save
+  id: 2341
+  time: '2026-06-30T01:53:31.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/273
