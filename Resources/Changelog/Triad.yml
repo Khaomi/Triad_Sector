@@ -2066,3 +2066,14 @@ Entries:
   id: 2344
   time: '2026-07-02T12:40:44.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/270
+- author: DDrakov
+  changes:
+    - type: Fix
+      message: Starting gun update optimizations
+    - type: Fix
+      message: Adaptive raycasting
+    - type: Fix
+      message: Viewport bounds check for shield drawing
+  id: 2345
+  time: '2026-07-04T01:16:39.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/284
