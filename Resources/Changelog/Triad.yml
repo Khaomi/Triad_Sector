@@ -2157,3 +2157,17 @@ Entries:
   id: 2354
   time: '2026-07-06T22:39:18.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/283
+- author: Minerva
+  changes:
+    - type: Tweak
+      message: >-
+        Catwalks now have no tile type restrictions on placement, meaning
+        builders now have another thing to play around with for decor.
+    - type: Tweak
+      message: >-
+        As a consequence of removing tile restrictions: catwalks can also now be
+        used for their intended purpose of safely crossing lava, liquid plasma,
+        or chasms.
+  id: 2355
+  time: '2026-07-08T01:36:43.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/296
