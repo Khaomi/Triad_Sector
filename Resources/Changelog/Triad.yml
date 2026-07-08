@@ -2248,3 +2248,10 @@ Entries:
   id: 2361
   time: '2026-07-08T14:33:36.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/250
+- author: TheRealMasterChief117
+  changes:
+    - type: Fix
+      message: Fixed Venmar station asteroid walls being destroyable via pickaxe
+  id: 2362
+  time: '2026-07-08T16:43:49.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/298
