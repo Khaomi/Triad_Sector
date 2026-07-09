@@ -2295,3 +2295,12 @@ Entries:
   id: 2367
   time: '2026-07-09T03:13:41.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/295
+- author: TheRealMasterChief117
+  changes:
+    - type: Add
+      message: >-
+        Added Clockcult gear, the Ratvarian spear, gauntlets, treads, helmet,
+        and cuirass. Unobtainable, but they are selectable via chameleon gear.
+  id: 2368
+  time: '2026-07-09T12:18:23.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/267
