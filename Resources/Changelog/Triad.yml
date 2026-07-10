@@ -2391,3 +2391,12 @@ Entries:
   id: 2376
   time: '2026-07-10T13:48:27.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/317
+- author: Eillyrea
+  changes:
+    - type: Tweak
+      message: >-
+        Rules version 1.3.  Adds some new rules and clarifies a few others,
+        check PR for 'patch notes'
+  id: 2377
+  time: '2026-07-10T13:49:33.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/309
