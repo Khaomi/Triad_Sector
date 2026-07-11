@@ -2468,3 +2468,10 @@ Entries:
   id: 2383
   time: '2026-07-11T05:54:56.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/332
+- author: Stedar111
+  changes:
+    - type: Add
+      message: Added the HZD "Pike" a heavy, researchable, burst rifle.
+  id: 2384
+  time: '2026-07-11T15:55:13.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/303
