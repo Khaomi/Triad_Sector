@@ -2546,3 +2546,12 @@ Entries:
   id: 2393
   time: '2026-07-13T21:49:30.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/316
+- author: Minerva
+  changes:
+    - type: Tweak
+      message: >-
+        Marking points have been increased for all species, with a few
+        exclusions for categories. Have fun!
+  id: 2394
+  time: '2026-07-13T22:20:46.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/348
