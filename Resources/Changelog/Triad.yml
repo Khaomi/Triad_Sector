@@ -2625,3 +2625,12 @@ Entries:
   id: 2401
   time: '2026-07-14T16:23:02.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/358
+- author: TheRealMasterChief117
+  changes:
+    - type: Fix
+      message: >-
+        Fixed station records computer filters causing your ship to be unable to
+        be saved.
+  id: 2402
+  time: '2026-07-14T19:58:50.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/361
