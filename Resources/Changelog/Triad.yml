@@ -2618,3 +2618,10 @@ Entries:
   id: 2400
   time: '2026-07-14T15:21:56.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/357
+- author: gaywolfgirl6
+  changes:
+    - type: Tweak
+      message: TDF Ships, Folder Structure.
+  id: 2401
+  time: '2026-07-14T16:23:02.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/358
