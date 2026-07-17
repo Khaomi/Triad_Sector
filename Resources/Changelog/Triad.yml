@@ -2776,3 +2776,10 @@ Entries:
   id: 2413
   time: '2026-07-17T22:58:55.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/377
+- author: TheRealMasterChief117
+  changes:
+    - type: Tweak
+      message: Made Tajaran Night vision a bit brighter.
+  id: 2414
+  time: '2026-07-17T23:01:35.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/374
