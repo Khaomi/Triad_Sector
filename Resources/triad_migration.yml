@@ -32,6 +32,9 @@ HyperlinkBookNfsdSop: BookTdfSop
 # 2026-07-13
 ToggleNightVision: null
 
+# 2026-07-14
+HoloprojectorNfsdEmpty: HoloprojectorNfsd
+
 # 2026-07-16
 ClothingOuterHardsuitViperGroupStandard: ClothingOuterHardsuitSyndie
 ClothingOuterHardsuitViperGroupMedic: ClothingOuterHardsuitSyndieMedic
