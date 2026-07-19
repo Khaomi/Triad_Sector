@@ -2834,3 +2834,16 @@ Entries:
   id: 2419
   time: '2026-07-18T08:57:10.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/211
+- author: rebaserHEAD
+  changes:
+    - type: Fix
+      message: >-
+        IPC wings now render in the correct layer from every direction instead
+        of drawing over everything.
+    - type: Fix
+      message: Balaclavas, helmet covers, and helmet attachments now render on IPCs.
+    - type: Fix
+      message: Fixed the draw order of IPC ID cards and neck-slot items.
+  id: 2420
+  time: '2026-07-19T19:40:57.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/381
